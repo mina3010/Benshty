@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966676907403",
+    "project_id": "benshty-bfdec",
+    "storage_bucket": "benshty-bfdec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966676907403:android:3ace0a7e484cd73fea9b8e",
+        "android_client_info": {
+          "package_name": "com.mina_magid.benshty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966676907403-eiaiuf53urti59uli8g44k64j3e50b62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mina_magid.benshty",
+            "certificate_hash": "b05bba0b584c73924ad2490578d1322e692df1bc"
+          }
+        },
+        {
+          "client_id": "966676907403-ecd799uvp7pmpmhqle3idom0a4sj402d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInkZaafDfrx8m-lExrzhpP2MfDNDjN3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966676907403-ecd799uvp7pmpmhqle3idom0a4sj402d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
